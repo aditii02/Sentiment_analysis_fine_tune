@@ -1,4 +1,4 @@
-# Sentiment_analysis_fine_tune
+# Sentiment_Analysis_Fine_Tune
 Fine Tuning Sentiment Analysis HuggingFace Model on FinGPT/fingpt-sentiment-train dataset
 
 #First method includes creating a sentence classification pipeline which includes the following steps:
